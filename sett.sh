@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install axel -y && axel https://github.com/vuongvan/v3/raw/main/v3.zip && unzip v3.zip && chmod +x * && t
